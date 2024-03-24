@@ -148,46 +148,4 @@ Repositori project TIK2032 - Reza Michelly Cantika Mawara 220211060300
 </body>
 </html>
 
-ASUS@LAPTOP-AT1SJL9R MINGW64 ~/Documents/Semester 4/Pemrograman Web/-TIK2032-Project (main)
-$ git clone https://github.com/RezaMawara/echaca.github.io
-Cloning into 'echaca.github.io'...
-remote: Repository not found.
-fatal: repository 'https://github.com/RezaMawara/echaca.github.io/' not found
 
-ASUS@LAPTOP-AT1SJL9R MINGW64 ~/Documents/Semester 4/Pemrograman Web/-TIK2032-Project (main)
-$ git clone https://github.com/RezaMawara/echaca.github.io
-Cloning into 'echaca.github.io'...
-warning: You appear to have cloned an empty repository.
-
-ASUS@LAPTOP-AT1SJL9R MINGW64 ~/Documents/Semester 4/Pemrograman Web/-TIK2032-Project (main)
-$ cd RezaMawara.github.io
-bash: cd: RezaMawara.github.io: No such file or directory
-
-ASUS@LAPTOP-AT1SJL9R MINGW64 ~/Documents/Semester 4/Pemrograman Web/-TIK2032-Project (main)
-$ cd echaca.github.io
-
-ASUS@LAPTOP-AT1SJL9R MINGW64 ~/Documents/Semester 4/Pemrograman Web/-TIK2032-Project/echaca.github.io (main)
-$ echo "Hello World" > index.html
-
-ASUS@LAPTOP-AT1SJL9R MINGW64 ~/Documents/Semester 4/Pemrograman Web/-TIK2032-Project/echaca.github.io (main)
-$ git add --all
-warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
-
-ASUS@LAPTOP-AT1SJL9R MINGW64 ~/Documents/Semester 4/Pemrograman Web/-TIK2032-Project/echaca.github.io (main)
-$ git commit -m "Initial commit"
-[main (root-commit) 2fb2719] Initial commit
- 1 file changed, 1 insertion(+)
- create mode 100644 index.html
-
-ASUS@LAPTOP-AT1SJL9R MINGW64 ~/Documents/Semester 4/Pemrograman Web/-TIK2032-Project/echaca.github.io (main)
-$ git push -u origin main
-Enumerating objects: 3, done.
-Counting objects: 100% (3/3), done.
-Writing objects: 100% (3/3), 233 bytes | 233.00 KiB/s, done.
-Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
-To https://github.com/RezaMawara/echaca.github.io
- * [new branch]      main -> main
-branch 'main' set up to track 'origin/main'.
-
-ASUS@LAPTOP-AT1SJL9R MINGW64 ~/Documents/Semester 4/Pemrograman Web/-TIK2032-Project/echaca.github.io (main)
-$
