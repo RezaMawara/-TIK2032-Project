@@ -191,3 +191,8 @@ branch 'main' set up to track 'origin/main'.
 
 ASUS@LAPTOP-AT1SJL9R MINGW64 ~/Documents/Semester 4/Pemrograman Web/-TIK2032-Project/echaca.github.io (main)
 $
+
+theme: jekyll-theme-THEME-NAME
+theme: jekyll-theme-minimal.
+remote_theme: THEME-NAME
+michellymawara@mail.com
